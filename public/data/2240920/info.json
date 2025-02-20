@@ -1,0 +1,9 @@
+{
+  "nombre": "Daniel Enriquez",
+  "edad": 23,
+  "carrera": "Tecnología en desarrollo de software",
+  "semestre": 6,
+  "gustos": ["Jugar videojuegos", "Cine", "Hacer deporte", "Viajar"],
+  "noGustos": ["Higado", "Comida picante", "papaya", "las personas"],
+  "foto": "public/data/2240920/fotodaniel.jpeg"
+}
