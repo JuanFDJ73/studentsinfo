@@ -1,0 +1,10 @@
+{
+    "nombre": "Camila Cerón",
+    "edad": 27,
+    "carrera": "Tecnología en desarrollo de software",
+    "semestre": 6,
+    "gustos": ["Gatos", "Naturaleza", "Bailar", "Viajar", "Atardeceres"],
+    "noGustos": ["Despertarse temprano", "Multitudes", "Jugo de maracuyá"],
+    "foto": "public/data/2242129/Image.jpeg"
+}
+  
