@@ -1,0 +1,9 @@
+{
+    "nombre": "Tiffany Torres Figueroa",
+    "edad": 20,
+    "carrera": "Tecnología en desarrollo de software",
+    "semestre": 6,
+    "gustos": ["Arte", "Viajar", "Diseño", "naturaleza", "libros"],
+    "noGustos": ["tacones", "tom sawyer"],
+    "foto": "public/data/2241747/Tiffany.jpeg"
+  }
