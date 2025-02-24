@@ -1,0 +1,20 @@
+{
+    "nombre": "Juan Sebastian Viedman Restrepo",
+    "edad": 23,
+    "carrera": "Tecnología en desarrollo de software",
+    "semestre": 6,
+    "gustos": [
+        "Jugar videojuegos",
+        "Viajar",
+        "Gimnasio",
+        "Naturaleza",
+        "Fútbol",
+        "Motos",
+        "Gatos"
+    ],
+    "noGustos": [
+        "Perros",
+        "Ruido"
+    ],
+    "foto": "public/data/2242562/profile-photo.jpg"
+}

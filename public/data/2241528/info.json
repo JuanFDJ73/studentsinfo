@@ -1,0 +1,9 @@
+{
+    "nombre": "Juan Fernando Duque Jojoa",
+    "edad": 21,
+    "carrera": "Desarrollo de Software",
+    "semestre": 6,
+    "gustos": ["Jugar", "Cine", "Bicicleta", "Viajes"],
+    "noGustos": ["Perder partidas", "Lag", "Tareas largas"],
+    "foto": "https://sm.ign.com/ign_latam/screenshot/default/0e689c085eeb5fad8fd774a2c5d218de_q9f5.jpg"
+}
