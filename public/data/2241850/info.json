@@ -1,0 +1,17 @@
+{
+    "nombre": "Genaro Vegas",
+    "edad": 34,
+    "carrera": "Tecnologia en Desarrollo de Software",
+    "semestre": 6,
+    "gustos": [
+        "Futbol",
+        "Comer",
+        "UFC",
+        "Musica"
+    ],
+    "noGustos": [
+        "Bebidas alcoholicas",
+        "Bad Bunny"
+    ],
+    "foto": ""
+}
